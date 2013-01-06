@@ -1,0 +1,3 @@
+<resources>
+    <item type="layout" name="activity_phonetest_list">@layout/activity_phonetest_twopane</item>
+</resources>
