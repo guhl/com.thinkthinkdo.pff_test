@@ -28,6 +28,8 @@ public class DummyContent {
 
     static {
         addItem(new DummyItem("1", "READ_PHONE_STATE"));
+        addItem(new DummyItem("2", "ACCESS_COARSE_LOCATION"));
+        addItem(new DummyItem("3", "ACCESS_FINE_LOCATION"));
     }
 
     private static void addItem(DummyItem item) {
